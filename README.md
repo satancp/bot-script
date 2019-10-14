@@ -1,3 +1,3 @@
 # bot-script
 
-test4
+This is the repo for nike.com bots.
